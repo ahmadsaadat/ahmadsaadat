@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmad !</h1>
-<h3 align="left">Software Engineer | DevOps</h3>
+<h3 align="left">Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on: AWS migration for [Changing the Present](https://changingthepresent.org/)
 - 🌱 I’m currently looking: For a full-time role
