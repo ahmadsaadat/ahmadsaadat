@@ -7,7 +7,7 @@
 - 💬 Ask me about: My Master's experience at Carnegie Mellon University
 - 📫 How to reach me: Ahmad.Saadat.Official@gmail.com
 - ⚡ Fun fact: I love hiking
-- 📎 Resume: [https://docs.readme.com/main/docs/linking-to-pages](https://docdro.id/7ypmEWU)
+- 📎 Resume: [Click me!](https://www.docdroid.net/ovEJqpD)
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
