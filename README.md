@@ -3,7 +3,6 @@
 <h3 align="left">A Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on: AWS migration for [Changing the Present](https://changingthepresent.org/)
-- 🌱 I’m currently looking: For a full-time role
 - 💬 Ask me about: My Master's experience at Carnegie Mellon University
 - 📫 How to reach me: Ahmad.Saadat.Official@gmail.com
 - ⚡ Fun fact: I love hiking
